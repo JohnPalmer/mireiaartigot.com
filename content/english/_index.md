@@ -1,8 +1,4 @@
 ---
-menu:
-  main:
-    name: "Home"
-    weight: 1
 
 ############################### Banner ##############################
 banner:
@@ -61,7 +57,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable : true
-  bg_image : "images/grey_plant.jpg"
+  bg_image : "images/grey_plant.jpg"  
   title : "My research is awesome."
   content : "These are some of the things I am working on."
   button:

@@ -38,7 +38,7 @@ ordered = false
 ################################# Default parameters ##########################
 [params]
 logo = "images/logo.png"
-logo_width = "150px"
+logo_width = "70px"
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
 author = "Themefisher"
@@ -92,7 +92,7 @@ preloader = "" # use .png , .svg or .gif image
 
 ################################# Cookies #####################################
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 
 
@@ -195,12 +195,12 @@ weight = 3
 
 [[languages.en.menu.main]]
 name = "Research"
-URL = "#research"
+URL = "research"
 weight = 4
 
 [[languages.en.menu.main]]
 name = "Teaching"
-URL = "#teaching"
+URL = "teaching"
 weight = 5
 
 [[languages.en.menu.main]]

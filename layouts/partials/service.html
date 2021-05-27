@@ -1,0 +1,31 @@
+{{ with site.GetPage "/service" }}
+{{ with .Params.service }}
+<section class="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>{{ .title | markdownify }}</h2>
+        <p>{{ .description | markdownify }}</p>
+                  {{ if .button.enable }}
+          {{ with .button }}
+          <a class="btn btn-main btn-main animated fadeInUp" href="{{ .link | relLangURL }}">{{ .label }}</a>
+          {{ end }}
+          {{ end }}
+
+      </div>
+    </div>
+    <div class="row">
+      {{ range .service_item }}
+      <div class="col-sm-12 col-md-4">
+        <div class="service-item">
+          <i class="icon {{ .icon }}"></i>
+          <h4>{{ .name | markdownify }}</h4>
+          <p style="text-align: left;">{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
