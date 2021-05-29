@@ -10,6 +10,10 @@
   <meta name="generator" content="Hugo 0.83.1" />
 
   <!-- Open Graph image and Twitter Card metadata -->
+  <meta property="og:image" content="http://examplesite.org/images/logo.png" />
+    <meta property="og:image:width" content="151">
+      <meta property="og:image:height" content="41">
+      <meta property="og:image:type" content="image/png">
   <meta name="twitter:title" content="Mireia Artigot Golobardes"/>
   <meta name="twitter:description" content="This is meta description"/>
   <meta property="og:title" content="" />
@@ -57,14 +61,12 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">
-              <img src="/images/logo.png" alt="Mireia Artigot Golobardes" width="150px" class="img-responsive">
-            </a>
+            <a class="navbar-brand" href="/"><span>Mireia Artigot Golobardes</span></a>
           </div>
           
           <div class="collapse navbar-collapse" id="navigation">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="/" class="current">Home</a></li><li><a href="/#about">About</a></li><li><a href="/#cv">CV</a></li><li><a href="/#research">Research</a></li><li><a href="/#teaching">Teaching</a></li><li><a href="https://www.lians-seminar.com/">LiaNs Seminar</a></li><li><a href="/#pizzicattos">Pizzicattos</a></li><li><a href="/contact">Contact</a></li>
+              <li><a href="/#about">About</a></li><li><a href="/images/Artigot_CV_27-5-2021.pdf">CV</a></li><li><a href="/research">Research</a></li><li><a href="/teaching">Teaching</a></li><li><a href="https://www.lians-seminar.com/">LiaNs Seminar</a></li><li><a href="/#pizzicattos">Pizzicattos</a></li><li><a href="/contact">Contact</a></li>
 
               
               <li>
@@ -119,7 +121,7 @@
 
 
 
-<section class="about section">
+<section class="about section" id="about">
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-sm-12">
@@ -190,6 +192,52 @@
 
 
 
+<section class="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>Curriculum Vitae</h2>
+        <p></p>
+                  
+          
+          <a class="btn btn-main btn-main animated fadeInUp" href="/project">Download CV</a>
+          
+          
+
+      </div>
+    </div>
+    <div class="row">
+      
+      <div class="col-sm-12 col-md-4">
+        <div class="service-item">
+          <i class="icon ion-university"></i>
+          <h4>Education</h4>
+          <p style="text-align: left;">JSD, Cornell Law School<br>LLM, Cornell Law School<br>Law Degree, UPF<br>BA Economics, UPF<br>BA Music, Conservatory of Barcelona</p>
+        </div>
+      </div>
+      
+      <div class="col-sm-12 col-md-4">
+        <div class="service-item">
+          <i class="icon ion-briefcase"></i>
+          <h4>Current Employment</h4>
+          <p style="text-align: left;">Ramon y Cajal Researcher, UPF Law School<br>Affiliated Professor of International Economics, ESCI-UPF</p>
+        </div>
+      </div>
+      
+      <div class="col-sm-12 col-md-4">
+        <div class="service-item">
+          <i class="icon ion-hammer"></i>
+          <h4>Project Leadership</h4>
+          <p style="text-align: left;">Principal Investigator, UPF, for <a href='https://www.fricore.eu/'>Fundamental Rights in Courts and Regulation (FricoRe) (JUST/2017/Action Grant)</a></p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+
 
 
 
@@ -202,7 +250,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h2>My research is awesome.</h2>
+          <h2>My research</h2>
           <p>These are some of the things I am working on.</p>
           
           
@@ -239,13 +287,13 @@
             
             <li><a href="/#cv">CV</a></li>
             
-            <li><a href="/#research">Research</a></li>
+            <li><a href="/research">Research</a></li>
             
-            <li><a href="/#teaching">Teaching</a></li>
+            <li><a href="/teaching">Teaching</a></li>
             
             <li><a href="https://www.lians-seminar.com/">LiaNs Seminar</a></li>
             
-            <li><a href="/#pizzicattos">Pizzicattos</a></li>
+            <li><a href="/pizzicattos">Pizzicattos</a></li>
             
             <li><a href="/contact">Contact</a></li>
             
@@ -282,46 +330,6 @@
 <script src="/js/bundled.min.js"></script>
 
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-  This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
-</div>
-<script>
-  (function ($) {
-    const cookieBox = document.getElementById('js-cookie-box');
-    const cookieButton = document.getElementById('js-cookie-button');
-    if (!Cookies.get('cookie-box')) {
-      cookieBox.classList.remove('cookie-box-hide');
-      cookieButton.onclick = function () {
-        Cookies.set('cookie-box', true, {
-          expires:  2 
-        });
-        cookieBox.classList.add('cookie-box-hide');
-      };
-    }
-  })(jQuery);
-</script>
-
-
-<style>
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
-}
-
-.cookie-box-hide {
-  display: none;
-}
-</style>
 
 </body>
 

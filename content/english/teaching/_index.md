@@ -63,7 +63,7 @@ bg_image: "images/upf_photos/IMG_3376.JPG"
 
 **Introduction to the Legal and Political System of the United States** (English), Summers 2007, 2008, 2009 Syllabus
 
-## [ESADE](http://www.esade.edu/web/eng)
+## ESADE
 
 ### LAW SCHOOL
 
@@ -73,15 +73,15 @@ bg_image: "images/upf_photos/IMG_3376.JPG"
 
 **Law and Economics** (English), 2016-2017, Syllabus
 
-## [ESCOLA SUPERIOR DE COMERÇ INTERNACIONAL](http://www.esci.upf.edu/en)
+## ESCOLA SUPERIOR DE COMERÇ INTERNACIONAL
 
 **International Economics** (English),B.A. in International Business, Since 2013-2014  Syllabus
 
-## [BARCELONA SCHOOL OF MANAGEMENT](http://www.barcelonaschoolofmanagement.upf.edu/en)
+## BARCELONA SCHOOL OF MANAGEMENT
 
 **Internacional Economics** (English), Master of Science in internacional Business, 2013-2014, 2012-2013
 
-## [UNIVERSIDAD DE PUERTO RICO, ESCUELA DE DERECHO](http://derecho.uprrp.edu/)
+## UNIVERSIDAD DE PUERTO RICO, ESCUELA DE DERECHO
 
 **Derecho de Contratos**, 2009-2010
 
@@ -89,10 +89,10 @@ bg_image: "images/upf_photos/IMG_3376.JPG"
 
 **Derecho de Família: instituciones y análisis económico**, 2009-2010
 
-## [UNIVERSITY OF KASSEL](http://www.uni-kassel.de/uni/internationales/english-version/university/about-us.html)
+## UNIVERSITY OF KASSEL
 
 **Anglo American Law** , [Institut für Wirtschaftsrecht](http://www.uni-kassel.de/fb07/institute/iwr/home.html) (English), 2013, 2012, 2011, 2010, Syllabus
 
-## [FUNDACIÓN ORTEGA Y GASSET](http://www.ortegaygasset.edu/)
+## FUNDACIÓN ORTEGA Y GASSET
 
 Participación como profesora en el curso de Responsabilidad civil del fabricante por producto defectuoso, [Máster Universitario en Análisis Económico del Derecho](http://ortegaygasset.edu/instituto-universitario/programas-de-postgrado/masteres-universitarios-oficiales), 2011

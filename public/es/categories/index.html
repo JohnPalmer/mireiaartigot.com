@@ -10,6 +10,10 @@
   <meta name="generator" content="Hugo 0.83.1" />
 
   <!-- Open Graph image and Twitter Card metadata -->
+  <meta property="og:image" content="http://examplesite.org/images/logo.png" />
+    <meta property="og:image:width" content="151">
+      <meta property="og:image:height" content="41">
+      <meta property="og:image:type" content="image/png">
   <meta name="twitter:title" content="Categories"/>
   <meta name="twitter:description" content="This is meta description"/>
   <meta property="og:title" content="Categories" />
@@ -57,14 +61,12 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/es/">
-              <img src="/images/logo.png" alt="Mireia Artigot Golobardes" width="150px" class="img-responsive">
-            </a>
+            <a class="navbar-brand" href="/es/"><span>Mireia Artigot Golobardes</span></a>
           </div>
           
           <div class="collapse navbar-collapse" id="navigation">
             <ul class="nav navbar-nav navbar-right">
-              <li><a href="/es/#about">Acerca de</a></li><li><a href="/es/#cv">CV</a></li><li><a href="/es/#research">Investigación</a></li><li><a href="/es/#teaching">Docencia</a></li><li><a href="https://www.lians-seminar.com/">LiaNs Seminar</a></li><li><a href="/es/#pizzicattos">Pizzicattos</a></li><li><a href="/es/contact">Contacto</a></li>
+              <li><a href="/es/#about">Acerca de</a></li><li><a href="/es/#cv">CV</a></li><li><a href="/es/research">Investigación</a></li><li><a href="/es/teaching">Docencia</a></li><li><a href="/es/contact/">Contact</a></li><li><a href="https://www.lians-seminar.com/">LiaNs Seminar</a></li><li><a href="/es/pizzicattos">Pizzicattos</a></li><li><a href="/es/contact">Contacto</a></li>
 
               
               <li>
@@ -152,13 +154,13 @@
             
             <li><a href="/es/#cv">CV</a></li>
             
-            <li><a href="/es/#research">Investigación</a></li>
+            <li><a href="/es/research">Investigación</a></li>
             
-            <li><a href="/es/#teaching">Docencia</a></li>
+            <li><a href="/es/teaching">Docencia</a></li>
             
             <li><a href="https://www.lians-seminar.com/">LiaNs Seminar</a></li>
             
-            <li><a href="/es/#pizzicattos">Pizzicattos</a></li>
+            <li><a href="/es/pizzicattos">Pizzicattos</a></li>
             
             <li><a href="/es/contact">Contacto</a></li>
             
@@ -195,46 +197,6 @@
 <script src="/js/bundled.min.js"></script>
 
 
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
-<div id="js-cookie-box" class="cookie-box cookie-box-hide">
-  This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-main btn-solid-border">I Accept</span>
-</div>
-<script>
-  (function ($) {
-    const cookieBox = document.getElementById('js-cookie-box');
-    const cookieButton = document.getElementById('js-cookie-button');
-    if (!Cookies.get('cookie-box')) {
-      cookieBox.classList.remove('cookie-box-hide');
-      cookieButton.onclick = function () {
-        Cookies.set('cookie-box', true, {
-          expires:  2 
-        });
-        cookieBox.classList.add('cookie-box-hide');
-      };
-    }
-  })(jQuery);
-</script>
-
-
-<style>
-.cookie-box {
-  position: fixed;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  text-align: center;
-  z-index: 9999;
-  padding: 1rem 2rem;
-  background: rgb(71, 71, 71);
-  transition: all .75s cubic-bezier(.19, 1, .22, 1);
-  color: #fdfdfd;
-}
-
-.cookie-box-hide {
-  display: none;
-}
-</style>
 
 </body>
 

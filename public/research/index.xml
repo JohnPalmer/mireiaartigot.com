@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Research on Mireia Artigot Golobardes</title>
+    <link>http://examplesite.org/research/</link>
+    <description>Recent content in My Research on Mireia Artigot Golobardes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Mireia Artigot Golobardes All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://examplesite.org/research/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

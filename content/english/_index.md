@@ -6,7 +6,6 @@ banner:
   bg_image : "images/palau_glass.jpg"
   bg_overlay : true
   title : "Mireia Artigot Golobardes"
-  content : "My research combines the study of legal issues, particularly in private law, from an economics perspective. I focus on contracts, torts -  specially product liability - and wills. I am also interested in European law and on European Economic integration.  My research of the law draws from the inputs provided by microeconomics and macroeconomics."
   button:
     enable : true
     label : "Learn More"
@@ -16,8 +15,10 @@ banner:
 about:
   enable : true
   title : "About Me"
-  description : "I am a Visiting professor at [Pompeu Fabra Law School](http://www.upf.edu/dret), affiliated Professor at the [Economics Department of Universitat Pompeu Fabra](http://www.econ.upf.edu/en/) and at the [Escola Superior de Comerç Internacional](http://www.esci.upf.edu/en) of Universitat Pompeu Fabra and at [ESADE Law School](http://www.esade.edu/grados/eng/ged)."
-  content : "My research combines the study of legal issues, particularly in private law, from an economics perspective. I focus on contracts, torts -  specially product liability - and wills. I am also interested in European law and on European Economic integration.  My research of the law draws from the inputs provided by microeconomics and macroeconomics. 
+  content : "I am a Ramon y Cajal researcher at [Pompeu Fabra Law School](http://www.upf.edu/dret) and an affiliated Professor at the [Escola Superior de Comerç Internacional](http://www.esci.upf.edu/en) of Universitat Pompeu Fabra. 
+  
+  
+  My research combines the study of legal issues, particularly in private law, from an economics perspective. I focus on contracts, torts -  specially product liability - and wills. I am also interested in European law and on European Economic integration.  My research of the law draws from the inputs provided by microeconomics and macroeconomics. 
 
 
 I hold a Juris Science Doctor (J.S.D) and a Masters  in Laws (LLM) from [Cornell Law School](http://www.lawschool.cornell.edu/), a B.A. in Law and a B.A. in Economics by [Universitat Pompeu Fabra](https://www.upf.edu/en/). I have been a visiting professor of [Brooklyn Law School](https://www.brooklaw.edu/), the [Institut für Wirtschaftsrecht](https://www.uni-kassel.de/fb07/en/institutes/iwr/home.html) at [Kassel Universität](http://www.uni-kassel.de/uni/), the [Montenegro University](http://www.ekonomija.ac.me/) Economics Department and Law School, the [University of Trento](http://www.unitn.it/en) Law School  and the Center for South African studies of the [University of Western Cape](https://www.uwc.ac.za/Pages/default.aspx). I also served as a law clerk for the Presiding Judge Hon. Edwin H. Stern, Presiding Judge of the New Jersey Appellate Division of the [New Jersey Judiciary](http://www.judiciary.state.nj.us/). 
@@ -58,7 +59,7 @@ service:
 cta:
   enable : true
   bg_image : "images/grey_plant.jpg"  
-  title : "My research is awesome."
+  title : "My research"
   content : "These are some of the things I am working on."
   button:
     enable : true

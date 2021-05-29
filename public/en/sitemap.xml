@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://examplesite.org/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ca"
@@ -17,6 +18,60 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://examplesite.org/"
+                />
+  </url><url>
+    <loc>http://examplesite.org/research/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://examplesite.org/ca/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://examplesite.org/es/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/research/"
+                />
+  </url><url>
+    <loc>http://examplesite.org/teaching/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://examplesite.org/ca/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://examplesite.org/es/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/teaching/"
+                />
+  </url><url>
+    <loc>http://examplesite.org/pizzicattos/</loc>
+    <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://examplesite.org/ca/pizzicattos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://examplesite.org/es/pizzicattos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/pizzicattos/"
                 />
   </url><url>
     <loc>http://examplesite.org/categories/</loc>
@@ -34,6 +89,40 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://examplesite.org/categories/"
+                />
+  </url><url>
+    <loc>http://examplesite.org/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://examplesite.org/ca/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://examplesite.org/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/contact/"
+                />
+  </url><url>
+    <loc>http://examplesite.org/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ca"
+                href="http://examplesite.org/ca/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://examplesite.org/es/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.org/service/"
                 />
   </url><url>
     <loc>http://examplesite.org/tags/</loc>

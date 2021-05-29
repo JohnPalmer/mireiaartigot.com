@@ -4,15 +4,21 @@
   <sitemap>
     <loc>http://examplesite.org/en/sitemap.xml</loc>
     
+      <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    
   </sitemap>
   
   <sitemap>
     <loc>http://examplesite.org/ca/sitemap.xml</loc>
     
+      <lastmod>2018-01-04T00:00:00+00:00</lastmod>
+    
   </sitemap>
   
   <sitemap>
     <loc>http://examplesite.org/es/sitemap.xml</loc>
+    
+      <lastmod>2018-01-04T00:00:00+00:00</lastmod>
     
   </sitemap>
   
